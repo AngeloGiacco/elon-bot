@@ -32,5 +32,4 @@ def rand_elon():
     return random_tweet
 
 if __name__ == "__main__":
-    input(">> ")
     print(rand_elon())
